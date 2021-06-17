@@ -74,4 +74,4 @@ print("------------------")
 
 desp={'esp':' ', 'anne': 'ans.'}
 
-print (d['prenom']+ desp['esp'] +d['nom']+ desp['esp'] + d[age] + desp['esp'] + desp['anne'])
+print (d['prenom']+ desp['esp'] +d['nom']+ desp['esp'] + d['age'] + desp['esp'] + desp['anne'])
