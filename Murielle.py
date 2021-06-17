@@ -53,3 +53,25 @@ print('----------------------------------------------------------')
 
 l.remove(15)
 print(l)
+
+
+
+
+print(-------------EXERCICE E1----------------)
+
+
+d={'nom': 'Dupuis','prenom':'Jacque','age':30}
+
+d['prenom']= ['Jacques']
+print(d)
+print("------------------")
+
+print(d.keys())
+print("------------------")
+
+print(d.values())
+print("------------------")
+
+desp={'esp':' ', 'anne': 'ans.'}
+
+print (d['prenom']+ desp['esp'] +d['nom']+ desp['esp'] + d[age] + desp['esp'] + desp['anne'])
